@@ -104,13 +104,11 @@
   }
 }
 
-#next-steps ul {
-  list-style: none;
-  padding: 0;
-  display: flex;
-  gap: 8px;
-  margin: 32px 0 0;
-
+ul {
+  list-style-type: none;
+  padding-left: 0;
+  margin-left: 0;
+}
   .logo {
     height: 18px;
   }
